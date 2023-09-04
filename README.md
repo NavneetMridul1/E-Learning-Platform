@@ -1,2 +1,2 @@
-# Online-Course-Website
-This website is developed using the frontend tools such as HTML and CSS.
+# E-Learning Platform
+Developed an online E-Learning website by utilizing a combination of HTML and CSS technologies.
